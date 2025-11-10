@@ -11,8 +11,8 @@ This repository contains my collection of **Python programming certificates**, d
 - [Introduction to Statistics in Python](./Introduction%20to%20statistics%20in%20Python.pdf)
 - [Joining Data with Pandas](./Joining%20Data%20with%20Pandas.pdf)
 - [Writing Efficient Python Codes](./Writing%20Efficient%20Python%20Codes.pdf)
-- [Writing Function in Python](./Python%20Certificates/Writing%20Functions%20in%20Python.pdf)
-- [Intermediate SQL](./Python%20Certificates/Intermediate%20SQL.pdf)
+- [Writing Function in Python](./Writing%20Functions%20in%20Python.pdf)
+- [Intermediate SQL](./Intermediate%20SQL.pdf)
 
 ## 🚀 Usage
 
